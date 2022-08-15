@@ -1,0 +1,13 @@
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\Inventory.csproj.AssemblyReference.cache
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Login.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\Inventory.csproj.GenerateResource.cache
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Release\WindowsFormsApp1.mainForm.resources

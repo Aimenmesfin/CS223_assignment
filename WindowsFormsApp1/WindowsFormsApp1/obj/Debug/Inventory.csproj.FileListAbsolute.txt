@@ -1,0 +1,17 @@
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DisplayAll.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainForm.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Panels.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchForm.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductUserControl.resources
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\emane\Desktop\CS223\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
