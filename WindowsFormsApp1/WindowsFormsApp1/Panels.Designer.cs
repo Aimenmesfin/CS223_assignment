@@ -36,6 +36,7 @@
             // 
             // panel2
             // 
+            this.panel2.AutoScroll = true;
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.panel2.Location = new System.Drawing.Point(289, 1);
             this.panel2.Name = "panel2";
@@ -69,7 +70,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Panels";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Panels";
+            this.Text = "++";
             this.Load += new System.EventHandler(this.Panels_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);

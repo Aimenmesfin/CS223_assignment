@@ -31,6 +31,11 @@ namespace WindowsFormsApp1
                 product.Price = item.price;
                 product.Quantity = item.quantity;
                 flowLayoutPanel1.Controls.Add(product);
+                product.Click += (s, p) =>
+                {
+                    Detail d = new Detail(item.Name, item.price, item.quantity, item.isAvailable,item.inventoryNumber); ;
+                    d.ShowDialog();
+                };
             }
 
             
