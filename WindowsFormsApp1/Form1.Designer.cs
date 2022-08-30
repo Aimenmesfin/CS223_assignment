@@ -89,7 +89,6 @@
             this.lbl_inventory.Size = new System.Drawing.Size(91, 13);
             this.lbl_inventory.TabIndex = 2;
             this.lbl_inventory.Text = "Inventory Number";
-            this.lbl_inventory.Click += new System.EventHandler(this.lbl_inventory_Click);
             // 
             // txt_num
             // 
@@ -120,7 +119,6 @@
             this.lblName.Size = new System.Drawing.Size(72, 13);
             this.lblName.TabIndex = 7;
             this.lblName.Text = "Object Name ";
-            this.lblName.Click += new System.EventHandler(this.lblName_Click);
             // 
             // txtName
             // 
@@ -179,7 +177,6 @@
             this.btnCancel.TabIndex = 14;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = true;
-            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // dataGridView1
             // 
@@ -249,7 +246,6 @@
             this.radbtnVariable.TabStop = true;
             this.radbtnVariable.Text = "Variable";
             this.radbtnVariable.UseVisualStyleBackColor = true;
-            this.radbtnVariable.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // groupBox1
             // 
@@ -343,7 +339,6 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.groupBox1.ResumeLayout(false);

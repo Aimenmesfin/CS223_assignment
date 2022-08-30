@@ -66,38 +66,10 @@ namespace WindowsFormsApp1
 //data grid view used to display the data after the add button is clicked
                 dataGridView1.DataSource = null;
                 dataGridView1.DataSource = Item.getAllProduct();
-                MessageBox.Show($"the Item {it.Name}Saved ");
+                MessageBox.Show((it.result).ToString());
             }
         }
 
-        private void btnCancel_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
-        private void lblName_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void radioButton2_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void chkAvailable_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lbl_inventory_Click(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }
